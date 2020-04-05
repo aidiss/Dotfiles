@@ -1,0 +1,6 @@
+fi.combi-modi:    window,drun,ssh
+rofi.theme:       Monokai
+rofi.font:        hack 15
+rofi.modi:        combi
+rofi.bw:          0
+
